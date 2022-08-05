@@ -1,0 +1,21 @@
+caso 4 - 10 nodos dice 8
+
+mezcla de ACO con ACO 1
+
+tabla 5.26 faltan los signos %
+
+en las ecuaciones de PSO hay un representan que esta mal en el donde;
+
+
+•	Matriz de Costo de los enlaces 
+
+fioguras 5.37 y 5.36 dice ACO 3 en lugar de ACO (graficas ya generadas en ppt desarrollo)
+
+
+matriz de adyacencia ¿no esta mal?
+
+Tabla 5.6 falta coefinciente de faviracion
+
+Figura 5.19 no coincide el aco 1 y aco 2 con la tabla 5.13 (probablemente este mal la tabla)
+
+
